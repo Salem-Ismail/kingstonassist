@@ -1,0 +1,158 @@
+[
+  {
+    "id": "service_kingston_contact",
+    "name": "Service Kingston – City Help Desk",
+    "category": "City Services & Help",
+    "summary": "Contact the City of Kingston for general questions, service requests, or guidance on municipal services.",
+    "whoFor": "All residents needing help navigating city services",
+    "details": "Call or submit a request through the MyKingston portal for information or support about any city service.",
+    "contact": {
+      "phone": "613-546-0000",
+      "website": "https://www.cityofkingston.ca/council-and-city-administration/contact-us"
+    },
+    "source": "City of Kingston"
+  },
+  {
+    "id": "waste_garbage_recycling",
+    "name": "Garbage & Recycling Information",
+    "category": "Waste & Recycling",
+    "summary": "Find out how waste and recycling collection works in Kingston, including what goes where and when pick-up happens.",
+    "whoFor": "Residents needing guidance on garbage and recycling",
+    "details": "Includes waste sorting, collection schedules, garbage bag tags, and disposal of special items.",
+    "contact": {
+      "website": "https://www.cityofkingston.ca/garbage-and-recycling"
+    },
+    "source": "City of Kingston"
+  },
+  {
+    "id": "household_waste_collection",
+    "name": "Household Waste Collection Rules",
+    "category": "Waste & Recycling",
+    "summary": "Rules and tips for putting out garbage, organics, and recycling at the curb.",
+    "whoFor": "Residents new to city waste systems",
+    "details": "Learn what can go in your garbage or recycling and how to prepare your items for pick-up.",
+    "contact": {
+      "website": "https://www.cityofkingston.ca/garbage-and-recycling/household-waste-collection"
+    },
+    "source": "City of Kingston"
+  },
+  {
+    "id": "waste_app",
+    "name": "Kingston Waste App",
+    "category": "Waste & Recycling",
+    "summary": "Mobile app to view garbage/recycling schedules, sign up for reminders, and sort waste properly.",
+    "whoFor": "Residents who want reminders and help sorting waste",
+    "details": "Download the Kingston Waste app on your device to get schedule notifications and waste sorting help.",
+    "contact": {
+      "website": "https://www.cityofkingston.ca/garbage-and-recycling/waste-app"
+    },
+    "source": "City of Kingston"
+  },
+  {
+    "id": "parking_permits",
+    "name": "Parking Permits & Rules",
+    "category": "Parking & Transportation",
+    "summary": "Information on residential and commuter parking permits, how to apply, and related restrictions.",
+    "whoFor": "Residents who need parking permits or information",
+    "details": "Includes how to apply for residential or commuter permits and basic parking guideline information.",
+    "contact": {
+      "website": "https://www.cityofkingston.ca/roads-parking-and-transportation/parking/parking-permits"
+    },
+    "source": "City of Kingston"
+  },
+  {
+    "id": "kingston_transit",
+    "name": "Kingston Transit Information",
+    "category": "Parking & Transportation",
+    "summary": "Public transit service info such as planning trips, fares, schedules, and reporting issues.",
+    "whoFor": "Residents using public transit",
+    "details": "Learn about routes, fares, lost-and-found items, and how to report service issues.",
+    "contact": {
+      "website": "https://www.kingstontransit.ca"
+    },
+    "source": "City of Kingston"
+  },
+  
+  
+  {
+    "id": "settlement-kssc",
+    "name": "Kingston Community Health Centres — Settlement Services",
+    "category": "Settlement & Community",
+    "description": "Settlement supports for newcomers: orientation, referrals, and help navigating local services.",
+    "whyHelpful": "Helps you understand what services exist in Kingston and how to access them.",
+    "contact": "Phone: 613-541-3851 | Website: https://kchc.ca",
+    "location": "Kingston (various sites)",
+    "tags": ["newcomer", "settlement", "referrals", "community", "forms"]
+  },
+  {
+    "id": "employment-keys",
+    "name": "KEYS Job Centre",
+    "category": "Employment",
+    "description": "Employment services including job search support, resume help, and local employer connections.",
+    "whyHelpful": "Supports job searching and connecting to employment opportunities in Kingston.",
+    "contact": "Phone: 613-549-5550 | Website: https://keys.ca",
+    "location": "Kingston",
+    "tags": ["employment", "resume", "job-search", "training"]
+  },
+  {
+    "id": "housing-housing-help",
+    "name": "Housing Help (City of Kingston / Community Partner)",
+    "category": "Housing",
+    "description": "Information and referral support for housing options, applications, and local housing resources.",
+    "whyHelpful": "Helps you understand housing options and next steps for stable housing.",
+    "contact": "Call 211 Ontario or City of Kingston housing information line (as directed).",
+    "location": "Kingston",
+    "tags": ["housing", "rent", "shelter", "applications", "referrals"]
+  },
+  {
+    "id": "health-kchc",
+    "name": "Kingston Community Health Centres — Primary Care",
+    "category": "Health",
+    "description": "Community health services, primary care, and connections to health supports.",
+    "whyHelpful": "Helps you access health care and navigate local health supports.",
+    "contact": "Phone: 613-542-2949 | Website: https://kchc.ca",
+    "location": "Kingston",
+    "tags": ["health", "clinic", "primary-care", "mental-health"]
+  },
+  {
+    "id": "legal-legal-aid",
+    "name": "Legal Aid Ontario (Referral/Intake)",
+    "category": "Legal",
+    "description": "Information on legal aid services and eligibility, including referrals and intake guidance.",
+    "whyHelpful": "Can help you find legal support options and understand eligibility.",
+    "contact": "Website: https://legalaid.on.ca | Phone: 1-800-668-8258",
+    "location": "Ontario (phone/online)",
+    "tags": ["legal", "rights", "tenant", "family", "immigration-referral"]
+  },
+  {
+    "id": "immigration-ircc-info",
+    "name": "IRCC Information (Federal immigration information)",
+    "category": "Immigration",
+    "description": "Official federal information about immigration processes and forms.",
+    "whyHelpful": "Provides official, accurate information for immigration processes and status questions.",
+    "contact": "Website: https://www.canada.ca/en/immigration-refugees-citizenship.html",
+    "location": "Online",
+    "tags": ["immigration", "forms", "status", "official-info"]
+  },
+  {
+    "id": "211-ontario",
+    "name": "211 Ontario",
+    "category": "Information & Referral",
+    "description": "Free, confidential information and referrals to local community and social services.",
+    "whyHelpful": "If you're unsure where to start, 211 can connect you to the right local services.",
+    "contact": "Dial 2-1-1 | Website: https://211ontario.ca",
+    "location": "Ontario (phone/online)",
+    "tags": ["referrals", "info", "all-topics", "crisis-routing"]
+  },
+  {
+    "id": "libraries",
+    "name": "Kingston Frontenac Public Library",
+    "category": "Community",
+    "description": "Library services including programs, information access, and community resources.",
+    "whyHelpful": "A good starting point for internet access, programs, and community information.",
+    "contact": "Website: https://www.kfpl.ca",
+    "location": "Kingston (multiple branches)",
+    "tags": ["community", "internet", "programs", "language-learning"]
+  }
+]
+

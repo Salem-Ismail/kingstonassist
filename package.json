@@ -1,0 +1,16 @@
+{
+  "name": "kingston-newcomer-pathways",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Hackathon MVP: guided municipal service navigation assistant for Kingston newcomers",
+  "scripts": {
+    "kill:ports": "node scripts/kill-ports.js",
+    "install:all": "npm --prefix backend install && npm --prefix frontend install",
+    "dev": "node scripts/kill-ports.js && concurrently \"npm --prefix backend run dev\" \"npm --prefix frontend run dev\"",
+    "start": "concurrently \"npm --prefix backend start\" \"npm --prefix frontend run preview\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
+
